@@ -10,5 +10,3 @@ export const readContacts = async () => {
     console.log('Error reading contacts:', error);
   }
 };
-
-//console.log(await readContacts());
